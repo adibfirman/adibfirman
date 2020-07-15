@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
-
+![my personal blog](https://i.imgur.com/Iyw5Qhj.png)
 <!--
 **adibfirman/adibfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
