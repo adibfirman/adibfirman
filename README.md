@@ -1,4 +1,4 @@
-<a href="https://adibfirman.space">
+<a href="https://adibfirman.space?utm_source=github">
   <img alt="personal blog" src="https://i.imgur.com/Iyw5Qhj.png" />
 </a>
 <!--
