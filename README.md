@@ -1,4 +1,6 @@
-![my personal blog](https://i.imgur.com/Iyw5Qhj.png)
+<a href="https://adibfirman.space">
+  <img alt="personal blog" src="https://i.imgur.com/Iyw5Qhj.png" />
+</a>
 <!--
 **adibfirman/adibfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
